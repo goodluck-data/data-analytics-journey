@@ -1,2 +1,11 @@
 # data-analytics-journey
-Documenting my journey to becoming a Data Analyst through projects, notes, and certifications.
+Hello!
+
+I'm Goodluck, and this repository documents my journey to becoming a Data Analyst.
+
+Skills I'm learning:
+- Excel
+- SQL
+- Power BI
+- Python
+- Git & GitHub
